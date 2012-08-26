@@ -1,0 +1,69 @@
+* {
+	padding: 0;
+}
+
+body {
+	margin: 0 0 20 0;
+	background-color: rgb(255,255,255);
+}
+
+header, nav, section, article, aside, footer {
+	display: block;
+}
+
+p {
+	font: Arial, Tahoma, Verdana, sans-serif;
+	margin: 0 0 18px;
+	padding-left:14px;
+}
+
+h1 {
+	font: bold 22px Arial, Tahoma, Verdana, sans-serif;
+	margin: 0 0 28px;
+}
+
+h2 {
+	font: bold 18px Arial, Tahoma, Verdana, sans-serif;
+	margin: 0 0 22px;
+}
+
+
+ul {
+	margin: 14 0 1 22;
+}
+
+li {
+	margin: 14 0 10 22;
+}
+
+#wrapper {
+	width: 800px;
+	margin: 0 auto;
+	background-color: rgb(255,255,255);
+}
+
+#middle {
+	width: 100%;
+	height: 1%;
+	position: relative;
+}
+
+#middle:after {
+	content: '.';
+	display: block;
+	clear: both;
+	visibility: hidden;
+	height: 0;
+}
+
+#container {
+	width: 100%;
+	float: left;
+	overflow: hidden;
+}
+
+#content {
+	color: rgb(0,0,0);
+	background-color: rgb(255,255,255);
+	padding: 20 20 80 0px;
+}

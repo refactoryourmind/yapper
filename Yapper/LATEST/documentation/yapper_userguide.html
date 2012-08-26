@@ -1,0 +1,58 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta charset="utf-8" />
+	<!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+	<title>Yapper - User Guide</title>
+	<meta name="keywords" content="" />
+	<meta name="description" content="" />
+	<link rel="stylesheet" href="manuals.css" type="text/css" media="screen, projection" />
+</head>
+
+<body>
+<div id="wrapper">
+	<section id="middle">
+		<div id="container">
+			<div id="content">
+				<h1>Yapper - User Guide</h1>
+
+				<p>Yapper is a group chat application that consists of two parts, a client and a server. The server connects all participants to each other and marshals their messages. The client connects to a server, allowing users to participate in a chat session.</p>
+
+				<h2>Yapper Client</h2>
+
+				<p>To use the Yapper client you first must connect to a Yapper server. </p>
+
+				<img src="yapper_disconnected.png">
+				<p><i>Yapper client interface - currently disconnected.</i></p>
+
+				<p>Enter the IP address and port (default: 2323) into the area shown above and click 'Connect' to join a chat server. If you are hosting the server from the same machine on which you are running the client, connect to the default IP address 127.0.0.1. </p>
+
+				<p>When you have successfully connected to the server, the interface will update:</p>
+
+				<img src="yapper_connected.png">
+				<p><i>Yapper client interface - currently connected</i></p>
+
+				<ul>
+					<li><b>A.</b> The first thing you'll see when you connect is a nickname prompt. Enter your desired alias, then click 'OK' or hit ENTER to confirm. Clicking 'Cancel' will leave your name blank.
+					<li><b>B.</b> Message Box. Status messages, debug messages, server messages, and chat messages will all appear in this window.
+					<li><b>C.</b> Send Box. Type messages in this box and click 'Send' (D) or hit ENTER to send it to the server.
+					<li><b>D.</b> Send Button. Clicking this button will send the contents of the Send Box (C) to the server.
+					<li><b>E.</b> Disconnect Button. This button will disconnect you from the server, returning the client to its disconnected state.
+					<li><b>F.</b> Current Status. The typical statuses are Disconnected, Connecting, and Connected.
+					<li><b>G.</b> Ping latency in milliseconds.
+				</ul><br>
+
+				<h2>Yapper Server</h2>
+
+				<img src="yapper_server.png">
+				<p><i>Yapper server interface</i></p>
+
+				<p>To start a Yapper chat room, simply run the Yapper Server. Provide the server's IP address to those who wish to participate. The default port is 2323. If you are behind a firewall, make sure incoming and outgoing connections are cleared for port 2323. If you are behind a router, make sure to forward port 2323.</p>
+
+			</div>
+		</div>
+		
+		
+	</section>
+</div>
+</body>
+</html>

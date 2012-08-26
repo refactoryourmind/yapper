@@ -1,0 +1,14 @@
+C:\Users\Jimbo\Documents\Visual Studio 2010\Projects\ChatWorld\ChatWorld\bin\Release\ChatWorld.exe
+C:\Users\Jimbo\Documents\Visual Studio 2010\Projects\ChatWorld\ChatWorld\bin\Release\ChatWorld.pdb
+C:\Users\Jimbo\Documents\Visual Studio 2010\Projects\ChatWorld\ChatWorld\bin\Release\Lidgren.Network.dll
+C:\Users\Jimbo\Documents\Visual Studio 2010\Projects\ChatWorld\ChatWorld\bin\Release\Lidgren.Network.pdb
+C:\Users\Jimbo\Documents\Visual Studio 2010\Projects\ChatWorld\ChatWorld\obj\x86\Release\ChatWorld.csprojResolveAssemblyReference.cache
+C:\Users\Jimbo\Documents\Visual Studio 2010\Projects\ChatWorld\ChatWorld\obj\x86\Release\ChatWindow.baml
+C:\Users\Jimbo\Documents\Visual Studio 2010\Projects\ChatWorld\ChatWorld\obj\x86\Release\ChatWindow.g.cs
+C:\Users\Jimbo\Documents\Visual Studio 2010\Projects\ChatWorld\ChatWorld\obj\x86\Release\App.g.cs
+C:\Users\Jimbo\Documents\Visual Studio 2010\Projects\ChatWorld\ChatWorld\obj\x86\Release\ChatWorld_MarkupCompile.cache
+C:\Users\Jimbo\Documents\Visual Studio 2010\Projects\ChatWorld\ChatWorld\obj\x86\Release\ChatWorld.g.resources
+C:\Users\Jimbo\Documents\Visual Studio 2010\Projects\ChatWorld\ChatWorld\obj\x86\Release\Yapper.Client.Properties.Resources.resources
+C:\Users\Jimbo\Documents\Visual Studio 2010\Projects\ChatWorld\ChatWorld\obj\x86\Release\ChatWorld.csproj.GenerateResource.Cache
+C:\Users\Jimbo\Documents\Visual Studio 2010\Projects\ChatWorld\ChatWorld\obj\x86\Release\ChatWorld.exe
+C:\Users\Jimbo\Documents\Visual Studio 2010\Projects\ChatWorld\ChatWorld\obj\x86\Release\ChatWorld.pdb

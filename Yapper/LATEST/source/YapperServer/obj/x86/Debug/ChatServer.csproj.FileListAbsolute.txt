@@ -1,0 +1,14 @@
+c:\users\jimbo\documents\visual studio 2010\Projects\ChatWorld\ChatServer\bin\Debug\ChatServer.exe
+c:\users\jimbo\documents\visual studio 2010\Projects\ChatWorld\ChatServer\bin\Debug\ChatServer.pdb
+c:\users\jimbo\documents\visual studio 2010\Projects\ChatWorld\ChatServer\bin\Debug\Lidgren.Network.dll
+c:\users\jimbo\documents\visual studio 2010\Projects\ChatWorld\ChatServer\bin\Debug\Lidgren.Network.pdb
+c:\users\jimbo\documents\visual studio 2010\Projects\ChatWorld\ChatServer\obj\x86\Debug\ChatServer.csprojResolveAssemblyReference.cache
+c:\users\jimbo\documents\visual studio 2010\Projects\ChatWorld\ChatServer\obj\x86\Debug\ServerWindow.baml
+c:\users\jimbo\documents\visual studio 2010\Projects\ChatWorld\ChatServer\obj\x86\Debug\ServerWindow.g.cs
+c:\users\jimbo\documents\visual studio 2010\Projects\ChatWorld\ChatServer\obj\x86\Debug\App.g.cs
+c:\users\jimbo\documents\visual studio 2010\Projects\ChatWorld\ChatServer\obj\x86\Debug\ChatServer_MarkupCompile.cache
+c:\users\jimbo\documents\visual studio 2010\Projects\ChatWorld\ChatServer\obj\x86\Debug\ChatServer.g.resources
+c:\users\jimbo\documents\visual studio 2010\Projects\ChatWorld\ChatServer\obj\x86\Debug\ChatServer.csproj.GenerateResource.Cache
+c:\users\jimbo\documents\visual studio 2010\Projects\ChatWorld\ChatServer\obj\x86\Debug\ChatServer.exe
+c:\users\jimbo\documents\visual studio 2010\Projects\ChatWorld\ChatServer\obj\x86\Debug\ChatServer.pdb
+C:\Users\Jimbo\Documents\Visual Studio 2010\Projects\ChatWorld\ChatServer\obj\x86\Debug\Yapper.Server.Properties.Resources.resources
